@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sushant Pokhrel</h1>
 <h3 align="center">A passionate web developer from Nepal 🇳🇵</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sushantpokhrel&theme=onedark&margin-w=15&margin-h=15" alt="sushantpokhrel trophies" />
-  </a>
-</p>
 
----
+
 
 - 🔭 I’m currently working on [**Blog**](https://github.com/SushantPokhrel/Blog)
 - 🌱 I’m currently learning **Full Stack Web Development**
