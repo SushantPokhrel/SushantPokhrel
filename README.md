@@ -16,7 +16,8 @@
 - 💬 Ask me about **JavaScript, React, Node**
 - 📫 Reach me at **pokhrel00007@gmail.com**
 - 📄 Know about my experiences at [sushantpokhrel.com.np](https://sushantpokhrel.com.np)
-- ⚡ Fun fact: *I think I can make game engines from React 😂*
+### ⚡ Fun Fact
+> *I think I can make game engines from React* 😄🎮
 
 ---
 
