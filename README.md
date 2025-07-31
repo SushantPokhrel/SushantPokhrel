@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [**Blog**](https://github.com/SushantPokhrel/Blog)
+- 🔭 I’m currently working on a **Resume builder application**
 - 🌱 I’m currently learning **Full Stack Web Development**
 - 👨‍💻 All of my projects are available at [github.com/SushantPokhrel](https://github.com/SushantPokhrel)
 - 📝 I write articles on [devwrites.netlify.app](https://devwrites.netlify.app/user/auth)
